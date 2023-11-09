@@ -3,6 +3,7 @@ Budget Tracker - Android - Jetpack Compose
 # Budget Tracker App
 ## By [Peter Buckingham](https://github.com/NemesisGuy)
 ### Copyright (c) [2023]
+
 The Budget Tracker App is a simple expense tracking application built with Jetpack Compose.
 
 ## Features
