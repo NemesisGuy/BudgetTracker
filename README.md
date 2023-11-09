@@ -23,7 +23,7 @@ The Budget Tracker App is a simple expense tracking application built with Jetpa
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/budget-tracker-app.git
+   git clone https://github.com/NemesisGuy/BudgetTracker.git
 
 2. Open the project in Android Studio.
 
