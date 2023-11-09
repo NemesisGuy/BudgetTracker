@@ -51,6 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](License.md) f
 ## Acknowledgements
 
 - Thanks to the Jetpack Compose team for providing a powerful UI toolkit.
+- Google Material Icons by [Google](https://material.io/resources/icons/)
 - Icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com)
 
 ## Contact
