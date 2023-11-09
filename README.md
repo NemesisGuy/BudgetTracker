@@ -1,3 +1,5 @@
+# BudgetTracker
+Budget Tracker - Android - Jetpack Compose
 # Budget Tracker App
 ## By [Peter Buckingham](https://github.com/NemesisGuy)
 ### Copyright (c) [2023]
