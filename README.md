@@ -51,8 +51,32 @@ This project is licensed under the MIT License - see the [LICENSE](License.md) f
 ## Acknowledgements
 
 - Thanks to the Jetpack Compose team for providing a powerful UI toolkit.
-- Google Material Icons by [Google](https://material.io/resources/icons/)
+- Thanks to the Android team for providing a great platform to build on.
+- Thanks to the Kotlin team for providing a great language to build with.
+- Google Material Icons by [Google](https://material.io/resources/icons/) - Apache License Version 2.0
+- [Android Jetpack](https://developer.android.com/jetpack)
+- [Android Compose](https://developer.android.com/jetpack/compose)
+- [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
+- [Android KTX](https://developer.android.com/kotlin/ktx)
+- [Android Gradle Plugin](https://developer.android.com/studio/releases/gradle-plugin)
+- [Android Testing Support Library](https://developer.android.com/topic/libraries/testing-support-library/index.html)
+- [Espresso](https://developer.android.com/training/testing/espresso)
+- [JUnit](https://developer.android.com/training/testing/junit-rules)
+- [Mockito](http://site.mockito.org/)
+- [Robolectric](http://robolectric.org/)
+- [Truth](https://truth.dev/)
+- [AndroidX](https://developer.android.com/jetpack/androidx)
+- [Android Developer Guides](https://developer.android.com/guide)
+- [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
+- [Android Developer Codelabs](https://codelabs.developers.google.com/?cat=Android)
+- [Android Code Samples](
 - Icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com)
+
+## Resources
+
+- [Android Developers](https://developer.android.com/)
+- [Android Developers Blog](https://android-developers.googleblog.com/)
+- 
 
 ## Contact
 
